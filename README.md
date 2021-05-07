@@ -44,6 +44,7 @@ _Please reach out through my GitHub account._
 
 - C#
 - .NET 5 SDK
+- VS Code
 
 ### License
 
