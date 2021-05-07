@@ -4,7 +4,7 @@ using TemplateNameSpace.Models;
 namespace TemplateNameSpace.Test
 {
   [TestClass]
-  public class Template
+  public class TemplateTest
   {
     [TestMethod]
     public void TemplateConstructor_CreatesInstanceOfTemplate_Template()
