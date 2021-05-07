@@ -25,7 +25,7 @@ Project Description.
 ### Installation
 
 1. Clone the repository: `$ git clone {clone link}`
-2. Navigate to the `{Template.Solution/}` directory on your computer
+2. Navigate to the `{Template.Solution}` directory on your computer
 3. Open with your preferred text editor to view the code base
 4. To run the console app:
    - Navigate to `{Template.Solution/Template}` in your command line
